@@ -1,3 +1,4 @@
+el stash me borra lo que pongo
 probando nuevos git commit
 
 no grabo mis cambios el desgraciado
